@@ -5,8 +5,8 @@ Nodos APESOL
 _________
 Son organismos estudiantiles que buscan promover el desarrollo y la 
 investigación de tecnologías basadas en software libre, estos organismos
-actuan bajo la supervisión de la *ASOCIACION PERUANA DE SOFTWARE LIBRE*
- - `APESOL <http://apesol.org/>`_ y sus respectivas instituciones educativas.
+actuan bajo la supervisión de la *ASOCIACION PERUANA DE SOFTWARE LIBRE* - 
+`APESOL <http://apesol.org/>`_ y sus respectivas instituciones educativas.
 
 ¿Quién supervisa los nodos?
 ___________________________
