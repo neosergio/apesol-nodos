@@ -31,3 +31,19 @@ los nodos podran crear sitios por su cuenta o utilizar recursos como
 http://blogger.com, http://wordpress.com, http://tumblr.com, entre otros; 
 esto será siempre bajo la supervisión de un asociado, APESOL podrá brindar 
 subdominios, si el caso lo amerita.
+
+¿El nodo deberá tener cuentas en Redes Sociales?
+________________________________________________
+Las redes sociales son medios importantes de difusión por lo tanto, un 
+nodo también debe utilizarlas eficientemente, para ello se recomienda tener:
+
+- Página o grupo en Facebook. (Evitar crear perfiles de personas)
+- Cuenta en Twitter.
+- Cuenta en Identi.ca
+- Circulo en Google+. (Evitar usar una cuenta de correo, ya que el nodo 
+no debe figurar como una persona)
+
+Todas estas cuentas, desde la creación y durante el uso de las mismas 
+deberán ser supervisadas por un asociado de *APESOL*.
+
+
