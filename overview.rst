@@ -21,3 +21,13 @@ el desarrollo de Software Libre*, se debe tener el apoyo de la institución
 educativa y por último se debe solicitar el permiso de APESOL para finalizar 
 la creación (el permiso consiste básicamente en la designación de un 
 supervisor por parte de la asociación).
+
+¿El nodo debe tener un sitio web?
+_________________________________
+Uno de los recursos más importantes de un nodo, debe ser su sitio web o 
+blog, ya que entre los objetivos principales del nodo se encuentra la 
+difusión (tanto del trabajo que desarrollan, como de noticias relacionadas), 
+los nodos podran crear sitios por su cuenta o utilizar recursos como 
+http://blogger.com, http://wordpress.com, http://tumblr.com, entre otros; 
+esto será siempre bajo la supervisión de un asociado, APESOL podrá brindar 
+subdominios, si el caso lo amerita.
