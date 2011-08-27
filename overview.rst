@@ -40,10 +40,20 @@ nodo también debe utilizarlas eficientemente, para ello se recomienda tener:
 - Página o grupo en Facebook. (Evitar crear perfiles de personas)
 - Cuenta en Twitter.
 - Cuenta en Identi.ca
-- Circulo en Google+. (Evitar usar una cuenta de correo, ya que el nodo 
-no debe figurar como una persona)
+- Circulo en Google+. (Evitar usar una cuenta de correo, ya que el nodo no debe figurar como una persona)
 
 Todas estas cuentas, desde la creación y durante el uso de las mismas 
 deberán ser supervisadas por un asociado de *APESOL*.
+
+¿Debe haber un evento de presentación del nodo?
+_______________________________________________
+Una vez autorizada la creación de un nodo, el nodo tiene plazo de un mes para
+organizar su primer evento, en este evento el nodo debera presentarse, haciendo
+conocer sus objetivos, proyectos y demás detalles.
+El nodo esta en la libertad de crear su propio logo, o seguir los lineamientos que 
+APESOL comunicará en su respectivo momento. El nombre de APESOL debe estar remarcado
+en todo momento, para dar validez e importancia al evento.
+La institución educativa recibira el apoyo de APESOL y para el evento de presentación
+debe asistir por lo menos un asociado, de preferencia el asociado supervisor asignado.
 
 
