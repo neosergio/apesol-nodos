@@ -1,3 +1,6 @@
+.. header::
+	ASOCIACIÓN PERUANA DE SOFTWARE LIBRE
+
 ============
 Nodos APESOL
 ============
@@ -82,8 +85,7 @@ sera puesto a disposicion por APESOL
 ________________________________________________________
 Una de las actividades importantes del nodo, es hacer conocer su trabajo a los demas
 para ello es necesario, que publiquen fotografias, videos, diapositivas, materiales
-graficos y que esto sea constante por todos los medios a su alcance (sitio web, blog,
- cuentas en redes sociales u otros)
+graficos y que esto sea constante por todos los medios a su alcance (sitio web, blog, cuentas en redes sociales u otros)
 
 ¿Se debe presentar un informe al final de cada semestre?
 ________________________________________________________
