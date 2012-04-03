@@ -16,6 +16,10 @@ _____________________________________
 Los nodos están bajo la tutela de asociados de APESOL. Para ser un nodo se 
 debe tener por lo menos **un asociado supervisor**.
 
+¿Existe apoyo económico a los nodos?
+_________________________________
+APESOL, *no financia económicamente* a los nodos. No existen fondos para ello.
+
 ¿Cómo se inscriben los nodos?
 _____________________________
 Para inscribir un **nodo APESOL** se debe tener el interes y la motivación de 
@@ -113,7 +117,7 @@ ________________________________________________________
 2. Capacitarse en tecnologias basadas en software libre, por asesores con experiencia reconocida.
 3. Mejorar las capacidades técnicas con respecto al uso y desarrollo de software.
 4. Obtener reconocimiento profesional por los proyectos desarrollados.
-5. Recibir de acuerdo a los meritos ganados, premios y regalos por parte de APESOL
+5. Recibir reconocimientos por parte de APESOL de acuerdo a los meritos logrados.
 6. Tener la posibilidad de acuerdo a los meritos ganados, de formar parte de APESOL
 7. Tener la posibilidad de obtener puestos laborales de acuerdo a sus competencias y bien remunerados en las empresas nacionales que desarrollan Software Libre.
 
