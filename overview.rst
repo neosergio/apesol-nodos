@@ -4,8 +4,8 @@
 ============
 Nodos APESOL
 ============
-¿Qué son?
-_________
+¿Qué son los nodos?
+___________________
 Son comunidades que buscan promover el desarrollo y la 
 investigación de tecnologías basadas en software libre, estas comunidades
 son reconocidas por la *ASOCIACION PERUANA DE SOFTWARE LIBRE* - 
@@ -17,7 +17,7 @@ Los nodos están bajo la tutela de asociados de APESOL. Para ser un nodo se
 debe tener por lo menos **un asociado supervisor**.
 
 ¿Existe apoyo económico a los nodos?
-_________________________________
+____________________________________
 APESOL, *no financia económicamente* a los nodos. No existen fondos para ello.
 
 ¿Cómo se inscriben los nodos?
@@ -62,6 +62,11 @@ en todo momento, para dar validez e importancia al evento.
 Para el evento de presentación debe asistir por lo menos un asociado, 
 de preferencia el asociado supervisor asignado.
 
+¿Cuantos miembros debe tener como mínimo un nodo APESOL?
+________________________________________________________
+La cantidad de miembros debe ser como mínimo 5, tres coordinadores, un asesor y un
+supervisor.
+
 ¿Cuál es la organización interna de un nodo?
 ____________________________________________
 Un nodo debe tener:
@@ -74,29 +79,24 @@ Un nodo debe tener:
 ¿Se debe tener un plan de trabajo por semestre?
 _______________________________________________
 El nodo *APESOL* debe tener un plan de trabajo en donde se definan las metas a lograr
-por cada semestre. En el plan de trabajo se debe considerar:
+por cada semestre. 
 
-- Cantidad de proyectos creados
-- Cantidad de proyectos finalizados
-- Cantidad de talleres realizados
-- Cantidad de eventos realizados
-- Cantidad de nuevos miembros en el grupo (hay que incluir a mas miembros para dar continuidad al nodo)
+El formato de plan de trabajo se encuentra en la web de *APESOL*, en la sección asignada a los nodos
 
-Actualmente no existe un formato de plan de trabajo para los nodos, pero en el momento requerido
-sera puesto a disposicion por APESOL
+¿Se debe presentar un informe de las actividades?
+_________________________________________________
+El nodo *APESOL* debe presentar un informe cada dos meses, con el detalle de las actividades
+realizadas durante este periodo. El asesor debe revisar el informe antes de ser entregado. Este informe
+se presentará a los miembros asociados de APESOL, los cuales se encargarán de promocionar, difundir y 
+apoyar las actividades de los nodos.
 
-¿Se deben registrar las actividades que realice el nodo?
+El formato de informe de trabajo se encuentra en la web de *APESOL*, en la sección asignada a los nodos
+
+¿Se deben publicar las actividades que realice el nodo?
 ________________________________________________________
 Una de las actividades importantes del nodo, es hacer conocer su trabajo a los demas
 para ello es necesario, que publiquen fotografias, videos, diapositivas, materiales
 graficos y que esto sea constante por todos los medios a su alcance (sitio web, blog, cuentas en redes sociales u otros)
-
-¿Se debe presentar un informe al final de cada semestre?
-________________________________________________________
-Las actividades deben resumirse en un informe final por semestre, informe que debera
-ser revisado por el asociado supervisor a cargo. Este informe se presentará a los
-miembros asociados de APESOL, los cuales se encargarán de promocionar, difundir y 
-apoyar las actividades de los nodos.
 
 ¿Existen reglas estrictas para que una persona forme parte de un nodo APESOL?
 _____________________________________________________________________________
@@ -105,11 +105,6 @@ Para que las personas formen partes de los nodos APESOL deberan:
 1. Demostrar su interes por difundir y promover el uso del software libre.
 2. Pertenecer a la institución educativa
 3. Involucrarse con las actividades del nodo APESOL
-
-¿Cuantos miembros debe tener como mínimo un nodo APESOL?
-________________________________________________________
-La cantidad de miembros debe ser como mínimo 5, tres coordinadores, un asesor y un
-supervisor.
 
 ¿Qué beneficios obtienen los miembros de un nodo APESOL?
 ________________________________________________________
