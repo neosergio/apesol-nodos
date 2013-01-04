@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="css/nodes.css">
     <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
     <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/nodes.js"></script>
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -18,29 +19,37 @@
 <body>
     <header>
         <div class="container">
-            <h1>Nodos APESOL</h1>
-            <p>Grupos de capacitación e investigación de Software Libre en el Perú</p>
+            <div class="page-header">
+                <h1>Nodos APESOL <small>Grupos de capacitación e investigación de Software Libre en el Perú</small></h1>
+            </div>
         </div>
     </header>
     <section>
         <div class="container">
             <div class="row">
                 <div class="span3">
-                    <ul class="nav nav-list">
-                        <li class="active"><a href="#descripcion">Descripción</a></li>
+                    <ul id="navbar" class="nav nav-list nav-pills nav-stacked" data-spy="affix" data-offset-top="20">
+                        <li class="nav-header">Generalidades</li>
+                        <li><a href="#descripcion">Descripción</a></li>
                         <li><a href="#beneficios">Beneficios</a></li>
-                        <li><a href="">3</a></li>
-                        <li><a href="">4</a></li>
-                        <li><a href="">5</a></li>
-                        <li><a href="">6</a></li>
-                        <li><a href="">7</a></li>
-                        <li><a href="">8</a></li>
-                        <li><a href="">9</a></li>
-                        <li><a href="">0</a></li>
+                        <li><a href="#estructura">Estructura organizacional</a></li>
+                        <li class="nav-header">Responsabilidades</li>
+                        <li><a href="#coordinacion">Coordinación general</a></li>
+                        <li><a href="#subcoordinacion">Subcoordinaciones</a></li>
+                        <li><a href="#asesores">Asesores</a></li>
+                        <li class="nav-header">Meritocracia</li>
+                        <li><a href="#medicion">Sistema de Medición</a></li>
+                        <li class="nav-header">Acciones próximas</li>
+                        <li><a href="#urgente">Acciones Urgentes</a></li>
                     </ul>
                 </div>
                 <div class="span9">
+                    <div class="alert alert-block alert-error">
+                        <p>Documentación y proyecto en desarrollo, el contenido y la información aquí publicada cambiará constantemente.</p>
+                        <p>Cualquier sugerencia o comentario, enviarlo a <a href="mailto:info@apesol.org.pe">info@apesol.org.pe</a></p>
+                    </div>
                     <section id="descripcion">
+                        <h2>Descripción</h2>
                         <p>Los nodos APESOL son grupos de estudiantes y profesionales peruanos que se dedican a la
                             capacitación y la investigación sobre software libre, son patrocinados por la Asociación
                             Peruana de Software Libre y la comunidad universitaria peruana.
@@ -50,15 +59,141 @@
                         </div>
                     </section>
                     <section id="beneficios">
+                        <h2>Beneficios</h2>
                         <p>Formar parte de un nodo APESOL te proporciona los siguientes beneficios:
                         <ul>
                         <li>Capacitaciones gratuitas sobre software libre</li>
-                            <li></li>
-                            <li></li>
-                            <li></li>
-                            <li></li>
+                        <li>Colocación y recomendaciones laborales en empresas que proveen servicios y soluciones basadas en software libre</li>
+                        <li>Prácticas pre profesionales en empresas que proveen servicios y soluciones basadas en software libre</li>
+                        <li>Certificación de habilidades y conocimientos (a nombre de APESOL y de instituciones educativas mediante convenios) <span class="label label-warning">Pendiente</span></li>
                         </ul>
                         </p>
+                    </section>
+                    <section id="estructura">
+                        <h2>Estructura</h2>
+                        <p>Los nodos APESOL estan estructurados de la siguiente manera:
+                        <ul>
+                            <li>
+                                <span data-content="Responsable principal del funcionamiento de los nodos"
+                                      data-original-title="Sergio Infante Montero"
+                                      data-trigger="hover" >Coordinador General</span></li>
+                            <li>
+                                <span data-content="Responsable de registrar nodos y hacerle el seguimiento de la situación de los nodos y sus asesores"
+                                        data-original-title="Puesto disponible"
+                                        data-trigger="hover">Subcoordinador de registro y seguimiento</span>
+                            </li>
+                            <li>
+                                <span data-content="Responsable logístico de las capacitaciones"
+                                        data-original-title="Yonsy Solis"
+                                        data-trigger="hover">Subcoordinador de capacitaciones</span>
+                            </li>
+                            <li>
+                                <span data-content="Responsable de conseguir practicas, oportunidades y recomendaciones laborales"
+                                        data-original-title="Puesto disponible"
+                                        data-trigger="hover">Subcoordinador de colocación laboral</span>
+                            </li>
+                            <li>
+                                <span data-content="Responsables del seguimiento y asesoria para cada nodo"
+                                        data-original-title="Asociados de APESOL"
+                                        data-trigger="hover">Asesores <span class="label label-important">Dos por cada nodo</span></span>
+                            </li>
+                        </ul>
+                        </p>
+                    </section>
+                    <hr>
+                    <section id="coordinacion">
+                        <h2>Coordinación General</h2>
+                        <p>
+                            El coordinador o coordinadora general se hace cargo del funcionamiento de todo el proyecto de nodos, hacer seguimiento
+                            a los subcoordinadores, y a los asesores, velando de esta manera que cumplan sus funciones adecuadamente. Esta responsabilidad
+                            será asignada por la junta directiva, cada vez que suceda un cambio de junta, está decidirá quien ocupara el cargo. Es un cargo de
+                            confianza.
+                        </p>
+                        <p>
+                            Tiene tambien la función de presentar reportes de las actividades mensualmente, y publicarlas abiertamente, para evidenciar
+                            el trabajo que se viene realizando con los nodos, debe asegurar que el proyecto sea visible para la ciudadanía.
+                        </p>
+                    </section>
+                    <section id="subcoordinacion">
+                        <h2>Subcoordinaciones</h2>
+                        <p>
+                            Son tres subcoordinaciones creadas para dar solidez al proyecto, tienen las siguientes funciones específicas:
+                        </p>
+                        <h3>Subcoordinación de registro y seguimiento</h3>
+                        <p>
+                            Otorgar el reconocimiento de nodo, luego de una evaluación que permita asegurar un buen funcionamiento, llevar un registro
+                            de nodos y la situación de estos, además debe estar pendiente del trabajo de los asesores, motivando y promoviendo actividades.
+                        </p>
+                        <p>
+                            Lleva un registro del trabajo de cada asesor, y miembros de los nodos, de manera tal que se puede tener un ranking de aportaciones,
+                            está clasificación se usará para otorgar beneficios de acuerdo a meritos.
+                        </p>
+                        <h3>Subcoordinación de capacitaciones</h3>
+                        <p>
+                            <span class="label label-important">Está sección debe ser rellenada por Yonsy</span>,
+                            <span class="label label-warning">Tomar en cuenta las certificaciones a nombre de APESOL o instituciones educativas via convenios.</span>
+                        </p>
+                        <h3>Subcoordinación de colocación laboral</h3>
+                        <p>
+                            Buscar oportunidades laborales, prácticas pre profesionales (pagadas y no pagadas), y cualquier otro tipo de trabajo que sea de conveniencia
+                            para los miembros de los nodos. Recomendar, promover y asignar de manera transparente las oportunidades a los miembros de los nodos con
+                            mayor reputación positiva, en base a los informes de la subcoordinación de registro y seguimiento.
+                        </p>
+                        <p>
+                            Llevar un registro de las oportunidades conseguidas, y la efectividad de las mismas, para generar una reputación de empleadores y miembros de nodos con empleo.
+                        </p>
+                    </section>
+                    <section id="asesores">
+                        <h2>Asesores</h2>
+                        <p>
+                            Tienen la función de asesorar y guiar a los miembros de los nodos en las actividades que deseen realizar y que van a
+                            participar, asesorar y coordinar las capacitaciones a las que tendran acceso, así como llevar un registro del trabajo
+                            que cada nodo en particular a cargo viene realizando. Existirán dos asesores por cada nodo. Deben actuar como mentores de los miembros.
+                        </p>
+                        <p>
+                            Ayudar a las subcoordinaciones y coordinación a cumplir los objetivos generales del proyecto, los subcoordinadores pueden
+                            ser asesores si así lo desean.
+                        </p>
+                    </section>
+                    <section id="medicion">
+                        <h2>Sistema de Medición de meritos</h2>
+                        <p>
+                            La propuesta para llevar un ranking de aportes tanto de asesores, como de miembros de nodos es a través de un sistema de medición de reputación.
+                            Mediante el cuál se otorguen puntos por participación en actividades, puntos que serán definidos por la coordinación y las subcoordinaciones. El objetivo es poder
+                            tener un registro de personas con capacidades por encima del promedio, futuros asociados, talentos ocultos y así poder incrementar valor a la asociación
+                            invitando a personas que puedan contribuir efectivamente por el software libre en el país.
+                        </p>
+                    </section>
+                    <section id="urgente">
+                        <h2>Acciones Urgentes e inmediatas</h2>
+                        <table class="table table-hover table-bordered">
+                            <thead>
+                                <tr><th>Acción</th><th>Estado</th></tr>                            
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <td>Definir los subcoordinadores para empezar a concretar el proyecto</td>
+                                <td><span class="label label-important">pendiente</span></td>
+                            </tr>
+                            <tr>
+                                <td>Definir los procedimientos para formar nodos y para asignar asesores</td>
+                                <td><span class="label label-important">pendiente</span></td>
+                            </tr>
+                            <tr>
+                                <td>Definir las actividades que los nodos pueden realizar</td>
+                                <td><span class="label label-important">pendiente</span></td>
+                            </tr>
+                            <tr>
+                                <td>Terminar de definir y aclarar el sistema de medición de reputación</td>
+                                <td><span class="label label-important">pendiente</span></td>
+                            </tr>
+                            <tr>
+                                <td>Definir la estrategía para buscar instituciones educativas con las que podamos formar alianzas estratégicas</td>
+                                <td><span class="label label-important">pendiente</span></td>
+                            </tr>
+                            </tbody>
+
+                        </table>
                     </section>
                 </div>
             </div>
